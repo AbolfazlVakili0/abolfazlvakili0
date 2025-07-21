@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 سلام، من ابوالفضل وکیـلی هستم  
+- 🔭 **در حال حاضر روی** Flutter، Python و C# کار می‌کنم.  
+- 🌱 **در حال یادگیری** بهینه‌سازی UI/UX در فلاتر و هوش مصنوعی با پایتون.  
+- 🎥 **یوتیوبر** – آموزش‌های برنامه‌نویسی و ترفندهای کسب‌وکارهای کوچیک.  
+- 🚀 **دنبال همکاری** برای پروژه‌های اپ موبایل، ابزارهای خودکارسازی و API.  
 
-<!--
-**AbolfazlVakili0/abolfazlvakili0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📱 شبکه‌های اجتماعی  
+| پلتفرم | لینک |
+|---|---|
+| 📺 YouTube | [DigiScope – کانال آموزشی من](https://www.youtube.com/@DigiScopeZero) |
+| 🐦 X (Twitter) | [abolfazlvakili0](https://x.com/abolfazlvakili0) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> **می‌خوای با هم کاری کنیم؟** روی هر دو پلتفرم بالا پیام بده یا Issue باز کن.  
+> 😄 ضمیر: he/him  
+> ⚡ Fun fact: کد اولی‌ام در ۱۲ سالگی با VB6 بود و هنوز سورسشو دارم!
